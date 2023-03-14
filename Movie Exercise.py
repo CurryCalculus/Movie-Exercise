@@ -5,7 +5,7 @@ Created by Yuu Nakashima
 
 # Component 1 -  Welcome screen and set up variables
 def sell_ticket():
-    print("********** Fanfare Movies - ticketing system *********8\n")
+    print("********** Fanfare Movies - ticketing system **********\n")
 
     adult_tickets = 0
     student_tickets = 0
@@ -15,6 +15,6 @@ def sell_ticket():
     total_sales = 0
 
 
+# Main routine
+sell_ticket()
 
-    # Main routine
-    sell_ticket()
